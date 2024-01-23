@@ -19,7 +19,7 @@ I am currently studying the technologies below:
 
 
 How u find me?
-Watch my profile on linkedin or contact me on my email: brunnosr12gmail.com
-You can call me on the whats app too: https://wa.me/5521983453923
+Watch my profile on linkedin or contact me on my email: brunnosr12gmail.com.
+You can also call me on the whats app: https://wa.me/5521983453923
 
 Thanks for your visit!
