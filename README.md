@@ -1,3 +1,18 @@
+E ai! Tudo bem?!
+
+Meu nome e Brunno e eu sou um estudante de programaçao que mora em Barra da Guaratiba, na zona Oeste do Rio de janeiro.
+Eu gosto de programar e meus objetivos na programaçao é criar incriveis websistes e aplicativos que resolvam problemas reais pelo mundo, e que tenham um designer legal.
+
+eu estarei grato  a qualquer dica ou contribuição importante aos meus estudos.
+
+Atualmente estou estudando as tecnologias abaixo:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=000000)
+
+
+(in inglish)
 
 Hello there!
 
