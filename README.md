@@ -14,7 +14,7 @@ Atualmente estou estudando as tecnologias abaixo:
 
 Como me achar?
 
-Veja meu perfil no linkedin ou me manda uma email: <a>brunnosr12gmail.com</a><br>
+Veja meu perfil no linkedin ou me manda uma email: <a href="mailto:brunnosr12gmail.com">brunnosr12gmail.com</a><br>
 Também pode me entrar em contato comigo pelo whats app: [021983453923](https://wa.me/5521983453923)
 
 Obrigado por sua visita!
