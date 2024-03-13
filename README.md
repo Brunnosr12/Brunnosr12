@@ -3,7 +3,7 @@
 Meu nome e Brunno e eu sou Contador (10 anos) e estudante de programaçao que mora em Barra da Guaratiba, na zona Oeste do Rio de janeiro.
 Eu gosto de programar e meus objetivos na programaçao é criar incriveis websistes e aplicativos que resolvam problemas reais pelo mundo, e que tenham um designer legal.
 
-eu estarei grato  a qualquer dica ou contribuição importante aos meus estudos.
+Eu estarei grato  a qualquer dica ou contribuição importante aos meus estudos.
 
 Atualmente estou estudando as tecnologias abaixo:
 
