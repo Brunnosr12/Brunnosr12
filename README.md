@@ -1,4 +1,4 @@
-E ai! Tudo bem?!
+  E ai! Tudo bem?!
 
 Meu nome e Brunno e eu sou Contador (10 anos) e estudante de programaçao que mora em Barra da Guaratiba, na zona Oeste do Rio de janeiro.
 Eu gosto de programar e meus objetivos na programaçao é criar incriveis websistes e aplicativos que resolvam problemas reais pelo mundo, e que tenham um designer legal.
@@ -19,4 +19,4 @@ Também pode entrar em contato comigo pelo whats app: [021983453923](https://wa.
 
 Obrigado por sua visita!
 
-[![Brunno Rodrigues's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Brunno Rodrigues's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brunno00710&theme=github-compact)]
