@@ -19,4 +19,4 @@ Também pode entrar em contato comigo pelo whats app: [021983453923](https://wa.
 
 Obrigado por sua visita!
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Brunno Rodrigues's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
