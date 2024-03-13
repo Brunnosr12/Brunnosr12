@@ -19,4 +19,4 @@ Também pode entrar em contato comigo pelo whats app: [021983453923](https://wa.
 
 Obrigado por sua visita!
 
-[![Grafico de atividade de Brunno](https://github-readme-activity-graph.vercel.app/graph?username=Brunnosr12)]([https://github.com/ashutosh00710](https://github.com/Brunnosr12)/github-readme-activity-graph)
+[![Grafico de atividade de Brunno](https://github-readme-activity-graph.vercel.app/graph?username=Brunnosr12&theme=github-compact)](https://github.com/Brunnosr12)
