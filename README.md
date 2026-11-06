@@ -1,22 +1,45 @@
-  E ai! Tudo bem?!
+ # Olá, seja bem-vindo ao meu GitHub! 👋
 
-Meu nome e Brunno e eu sou Contador (10 anos) e estudante de programaçao que mora em Barra da Guaratiba, na zona Oeste do Rio de janeiro.
-Eu gosto de programar e meus objetivos na programaçao é criar incriveis websistes e aplicativos que resolvam problemas reais pelo mundo, e que tenham um designer legal.
+### Contabilidade | Desenvolvimento de Software | Automação | Análise de Dados
 
-Eu estarei grato  a qualquer dica ou contribuição importante aos meus estudos.
+Sou **Brunno Rodrigues**, contador com mais de 14 anos de experiência na área contábil e financeira, atualmente ampliando minha atuação profissional por meio da graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Atualmente estou estudando as tecnologias abaixo:
+Minha trajetória em tecnologia começou com uma necessidade prática: encontrar soluções mais eficientes para problemas reais enfrentados no ambiente corporativo.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=000000)
+Hoje, concentro meus estudos e projetos no desenvolvimento de ferramentas que conectam **tecnologia, processos de negócios, contabilidade e finanças**.
 
+Acredito que o valor da tecnologia está na sua capacidade de simplificar processos, melhorar a qualidade das informações e transformar dados em decisões.
 
-Como me achar?
+---
 
-Veja meu perfil no linkedin ou me envie um email: <a href="mailto:brunnosr12gmail.com" target="_blank">brunnosr12gmail.com</a><br>
-Também pode entrar em contato comigo pelo whats app: [021983453923](https://wa.me/5521983453923)
+## 🎯 Minha abordagem
 
-Obrigado por sua visita!
+**Entender o problema. Estruturar a solução. Automatizar o que for possível. Melhorar continuamente.**
 
-[![Grafico de atividade de Brunno](https://github-readme-activity-graph.vercel.app/graph?username=Brunnosr12&theme=github-compact)](https://github.com/Brunnosr12)
+Meu foco não é apenas escrever código, mas compreender as regras de negócio e desenvolver soluções que produzam resultados mensuráveis.
+
+Tenho especial interesse em:
+
+- Automação de processos administrativos e financeiros.
+- Desenvolvimento de aplicações web.
+- Integração e tratamento de dados.
+- Modelagem e consultas em bancos de dados.
+- Construção de indicadores e relatórios gerenciais.
+- Digitalização de controles operacionais.
+- Aplicação de inteligência artificial no desenvolvimento de soluções.
+
+Busco aplicar conceitos de engenharia de software de forma progressiva, priorizando organização, rastreabilidade, confiabilidade e manutenção.
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens e desenvolvimento
+
+- **Python:** automação, processamento de arquivos, validação de dados e implementação de regras de negócio.
+- **SQL:** consultas, consolidação, tratamento e análise de informações.
+- **PowerShell:** automação de rotinas e gerenciamento de arquivos no Windows.
+- **TypeScript e React:** tecnologias presentes em projetos de aplicações web, atualmente em aprofundamento.
+
+### Dados e análise
+
+- **SQLite:** estruturação de bases de dados, armazenamento histórico e consultas.
+- **Excel e Power Query:** tratamento, transformação
